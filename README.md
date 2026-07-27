@@ -16,7 +16,7 @@
 
 🔹 [أنواع توزيعات لينكس حسب الاستخدام: أيها يناسبك؟](https://www.masdarx.com/posts/linux-distros-guide) - دليل مبسط لاختيار توزيعة لينكس المناسبة حسب احتياجك — للمبتدئين والمطورين.
 
-🔹 [Zorin OS أم Linux Mint: أيهما أفضل للقادمين من Windows؟](https://www.masdarx.com/posts/zorin-os-vs-linux-mint-windows-migration/) - مقارنة شاملة بين أشهر توزيعتين للمبتدئين لمساعدتك في اختيار البديل الأنسب لنظام Windows.
+&rlm;🔹 [Zorin OS أم Linux Mint: أيهما أفضل للقادمين من Windows؟](https://www.masdarx.com/posts/zorin-os-vs-linux-mint-windows-migration/) - مقارنة شاملة بين أشهر توزيعتين للمبتدئين لمساعدتك في اختيار البديل الأنسب لنظام Windows.
 
 🔹 [أفضل توزيعات لينكس للأمن السيبراني في 2026](https://www.masdarx.com/posts/best-linux-distros-cybersecurity/) - تعرف على أقوى توزيعات لينكس لاختبار الاختراق، وتحليل الثغرات، والتدريب على الأمن السيبراني.
 
