@@ -12,10 +12,15 @@
 
 🔹 [مستقبل الواجهات في لينكس: هل ينهي Wayland عصر X11 تماماً؟](https://www.masdarx.com/posts/wayland-vs-x11-linux-future-2026/) - السؤال لم يعد "هل سينتهي X11؟" بل "متى بالضبط؟"
 
-
 🔹 [ما هي المشاكل الشائعة في نظام لينكس؟ دليلك الشامل قبل أن تواجهها](https://www.masdarx.com/posts/common-linux-problems-beginners-guide) - دليل شامل يستعرض أبرز المشاكل الشائعة في نظام لينكس للمبتدئين.
 
 🔹 [أنواع توزيعات لينكس حسب الاستخدام: أيها يناسبك؟](https://www.masdarx.com/posts/linux-distros-guide) - دليل مبسط لاختيار توزيعة لينكس المناسبة حسب احتياجك — للمبتدئين والمطورين.
+
+🔹 [Zorin OS أم Linux Mint: أيهما أفضل للقادمين من Windows؟](https://www.masdarx.com/posts/zorin-os-vs-linux-mint-windows-migration/) - مقارنة شاملة بين أشهر توزيعتين للمبتدئين لمساعدتك في اختيار البديل الأنسب لنظام Windows.
+
+🔹 [أفضل توزيعات لينكس للأمن السيبراني في 2026](https://www.masdarx.com/posts/best-linux-distros-cybersecurity/) - تعرف على أقوى توزيعات لينكس لاختبار الاختراق، وتحليل الثغرات، والتدريب على الأمن السيبراني.
+
+🔹 [توزيعة openSUSE: دليل شامل لواحدة من أعرق توزيعات لينكس](https://www.masdarx.com/posts/opensuse-complete-guide/) - دليل متكامل يستعرض تاريخ openSUSE وإصداراتها ومميزاتها وأبرز استخداماتها للمبتدئين والمحترفين.
 
 ## 🌐 مجتمعات ومدونات عربية شريكة
 
